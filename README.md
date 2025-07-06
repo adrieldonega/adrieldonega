@@ -5,27 +5,45 @@
 
 ### 👋 Olá! Sou o Adriel Donegá
 
-> 🎯 Desenvolvedor Web em formação | Apaixonado por tecnologia, código limpo e segurança da informação  
-> 🌱 Atualmente estudando React, Angular e TypeScript  
-> 🚀 Meu objetivo: evoluir como Full Stack Developer com responsabilidade e propósito  
+> 🎯 Profissional em transição de carreira para a área de **Dados, Inteligência Artificial e Machine Learning**  
+> 📊 Foco em projetos que envolvam **análise, interpretação e visualização de dados** com aplicação real no mercado  
+> 🚀 Minha missão: unir conhecimento técnico com visão estratégica de negócios
 
 ---
 
-### 🧰 Tech Stack & Ferramentas
+### 🧠 Áreas de Especialização
+
+- 🤖 Inteligência Artificial e IA Generativa  
+- 📈 Machine Learning e Modelagem Preditiva  
+- 🧮 Banco de Dados Relacionais e SQL  
+- 📊 Business Intelligence com Power BI e Excel  
+- ☁️ Computação em Nuvem com Microsoft Azure  
+- 🔐 Privacidade de Dados, LGPD e Governança  
+
+---
+
+### 🧰 Tecnologias & Ferramentas
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-FFCA28?style=for-the-badge&logo=mysql&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
+
+---
+
+### 📌 Formação em Andamento
+
+Atualmente participando de um **bootcamp profissionalizante com mais de 100h de carga horária** em IA, Machine Learning, Banco de Dados e BI, com foco direto no **mercado de trabalho**.
+
+> A proposta do bootcamp é capacitar profissionais para resolver problemas reais com dados, aplicando tecnologia de forma estratégica e ética.
 
 ---
 
@@ -38,35 +56,36 @@
 
 ---
 
-### 🔥 Repositórios em Destaque
+### 🚀 Repositórios em Destaque
 
-- ✂️ [Barbearia dos Amigos](https://github.com/adrieldonega/barbeariaDosAmigos) – Landing page com animações AOS e responsividade
+- 📘 [Resumo Bootcamp IA + Azure](https://github.com/adrieldonega/AzureMachineLearning) – Resumo com conceitos práticos sobre IA, Machine Learning e Azure  
+- 📊 Power BI – Dashboard de Vendas (em construção)  
+- 🧮 Projeto SQL para E-commerce – Modelagem de dados com consultas SQL  
 
 ---
 
 ### ✨ Sobre Mim
 
-- 📍 De Santo André, SP
-- 👨‍👩‍👧 Pai, casado, apaixonado por tecnologia
-- 🧠 Sempre estudando algo novo (dev, segurança, LGPD)
-- 🔐 Background também em privacidade e proteção de dados (LGPD)
-- 😄 Pronouns: ele/dele
-- 🧩 Curiosidade: Salvo meus instaladores todos num pendrive na pasta “Depois da instalação do Windows” 💾
+- 📍 Santo André, SP  
+- 👨‍👩‍👧 Pai, casado, entusiasta da tecnologia  
+- 🧠 Sempre estudando algo novo: dados, IA e privacidade  
+- 🔐 Forte background com **LGPD, privacidade e segurança da informação**
 
 ---
 
-### 💬 “Todo código é uma poesia esperando ser lida”
+### 💬 “Transformar dados em decisões é mais que técnica — é arte, é estratégia.”
 
 ---
 
 ### 📫 Onde Me Encontrar
 
-[![Portfolio](https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=githubpages&logoColor=white)](https://adrieldonega.github.io/donega-dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrieldonega)
-[![Email](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adrieldonega@live.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adrieldonega)
+[![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adrieldonega@live.com)
 
 ---
 
+<!-- Banner rodapé -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=150&section=footer" />
 </p>
