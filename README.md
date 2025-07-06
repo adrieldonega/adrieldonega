@@ -40,7 +40,6 @@
 
 ### 🔥 Repositórios em Destaque
 
-- 🛒 [Loja de Tênis](https://github.com/adrieldonega/lojaDeTenis) – E-commerce responsivo feito com HTML, CSS e JS
 - ✂️ [Barbearia dos Amigos](https://github.com/adrieldonega/barbeariaDosAmigos) – Landing page com animações AOS e responsividade
 
 ---
@@ -62,7 +61,7 @@
 
 ### 📫 Onde Me Encontrar
 
-[![Portfolio](https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=githubpages&logoColor=white)](https://adrieldonega.github.io/meu-portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=githubpages&logoColor=white)](https://adrieldonega.github.io/donega-dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrieldonega)
 [![Email](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adrieldonega@live.com)
 
