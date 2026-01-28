@@ -4,7 +4,7 @@
 
 ### 👋 Olá! Sou o Adriel Donegá
 
-> 🎯 **Product Owner | Scrum Master | Analista de Negócios TI** > <br>
+> 🎯 **Product Owner | Scrum Master | Analista de Negócios TI**  <br>
 > 🚀 Unindo 20 anos de experiência em gestão de processos e pessoas com a expertise técnica do Desenvolvimento Web. <br>
 > 📊 Minha missão: Traduzir necessidades complexas de negócio em soluções tecnológicas ágeis e eficientes. <br>
 
