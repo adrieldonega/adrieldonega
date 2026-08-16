@@ -54,7 +54,7 @@
 |---|---|
 | [`excel_para_analise_de_dados`](https://github.com/adrieldonega/excel_para_analise_de_dados) | Scripts e automações para análise de dados a partir de planilhas Excel |
 | [`logicacomjavascriptdio`](https://github.com/adrieldonega/logicacomjavascriptdio) | Exercícios de lógica de programação em JavaScript |
-| [`curriculo`]([https://github.com/adrieldonega/curriculo/blob/main/curriculo.pdf]) | Repositório do currículo pessoal |
+| [`curriculo`](https://github.com/adrieldonega/curriculo/blob/main/curriculo.pdf) | Repositório do currículo pessoal |
 | [`donega-dev`](https://github.com/adrieldonega/donega-dev) | Página pessoal em HTML |
 
 > Ainda vou adicionar aqui o **gerador de alertas de robô (RCB)**, ferramenta interna que desenvolvi para transformar e-mails de alerta em documentos HTML formatados — assim que o repositório estiver organizado para exibição pública.
